@@ -1,0 +1,10 @@
+Linear Search
+Array of n numbers (Key oR Target Element)
+Create an Array and variable to store length in it
+1. Travesrse the Array (Loops)
+2. If any element in an array match with the key element print FOUND
+3. Else -1 or NOT Found
+
+20 marks mcq
+conversion of loops
+4 programs
